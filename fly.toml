@@ -1,10 +1,5 @@
-# fly.toml app configuration file generated for cron-manager on 2024-04-11T14:24:13-05:00
-#
-# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
-#
-
-app = 'cron-manager'
-primary_region = 'ord'
+app = 'attacktive-cron-manager'
+primary_region = 'sjc'
 
 [[mounts]]
   source = 'data'
