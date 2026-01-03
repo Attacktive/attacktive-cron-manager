@@ -1,6 +1,6 @@
 app = 'attacktive-cron-manager'
 primary_region = 'sjc'
-swap_size_mb = 512
+swap_size_mb = 1024
 
 [[mounts]]
   source = 'data'
